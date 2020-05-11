@@ -1,0 +1,51 @@
+body {
+    background-image:
+    url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/220debb1-2752-4d6a-8394-3da210c49380/d8t6lju-fbe77748-1199-49c6-9721-8bdcafd961d1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjIwZGViYjEtMjc1Mi00ZDZhLTgzOTQtM2RhMjEwYzQ5MzgwXC9kOHQ2bGp1LWZiZTc3NzQ4LTExOTktNDljNi05NzIxLThiZGNhZmQ5NjFkMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QGaYGRyeyen-xe1gBnT9Y2vceL9Ixja5PMAUd7vpaaY");
+    font-family: Arial;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 100vh;
+    background-position: left;
+  }
+  
+  .menu {
+    background-color:white;
+  }
+  
+  a {
+    text-decoration: none;
+    display:inline-block;
+    text-decoration:none;
+    padding:6px;
+    border:0px solid #ccc;
+    color:navy;   
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    background-color:navy;
+    color:white;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+
+  .site-subtitle,
+  .site-title {
+    padding: 4px;
+    background-color:navy;
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
